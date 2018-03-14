@@ -2,6 +2,8 @@
 
 ## Objectives
 
+modifying to pass test and submit - wc
+
 1. Add an event listener to a DOM node
 2. Trigger event listeners on DOM nodes
 3. Explain the difference between bubbling and capturing events
